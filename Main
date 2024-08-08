@@ -7,4 +7,4 @@ getgenv().Alts = {
     [3] = 0, 
 }
 -- IGNORE --
-loadstring(game:HttpGet('https://raw.githubusercontent.com/6wvvc/Ducky-Alt-Control-Source/main/Ducky%20Alt%20Control%20Source', true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/meeshyweeshy/129u9e0u120doqnokhiioaojiowmad/main/Ducky%20Alt%20Control%20Source', true))()
